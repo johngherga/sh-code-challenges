@@ -23,6 +23,8 @@
 - C can be placed before D (500) and M (1000) to make 400 and 900.
 
 ### Given a roman numeral, convert it to an integer.
+### So the challenge is. Write a function that takes an input parameter as STRING and outputs the correct numbers as INTEGER.
+### A simple console log is fine.
 
 
 #
