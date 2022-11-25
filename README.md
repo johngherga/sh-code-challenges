@@ -4,7 +4,7 @@
 #### You may use any programming language you like
 ### Good luck and have fun!
 #### Deccember 2022
-[roman-to-integer-dec-2022](sh-code-challenges/roman-to-integer-dec-2022/README.md)
+[roman-to-integer-dec-2022](roman-to-integer-dec-2022/README.md)
 
 
 
